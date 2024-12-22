@@ -1,6 +1,7 @@
 ---
-title: My Site
-toc: false
+title: Blog
+cascade:
+    type: 
 ---
 
 This is the landing page.
@@ -11,7 +12,3 @@ This is the landing page.
   {{< card link="docs" title="Docs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
