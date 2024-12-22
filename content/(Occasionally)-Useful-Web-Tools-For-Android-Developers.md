@@ -1,28 +1,6 @@
 ---
-breadcrumbs: false
-linkTitle: Foo Bar
-title: Organize Files
+title: (Occasionally) Useful Web Tools For Android Developers
 ---
-
-## (Occasionally) Useful Web Tools For Android Developers
-
-## Table of contents
-
-- [SvgPathEditor](<#SvgPathEditor> "SvgPathEditor")
-- [IconKitchen](<#IconKitchen> "IconKitchen")
-- [Room SQLite Difference Finder](<#Room SQLite Difference Finder> "Room SQLite Difference Finder")
-- [badssl.com](<#badssl.com> "badssl.com")
-- [API Levels](<#API Levels> "API Levels")
-- [Perfetto UI](<#Perfetto UI> "Perfetto UI")
-- [SQLFORMAT](<#SQLFORMAT> "SQLFORMAT")
-- [GitPop3](<#GitPop3> "GitPop3")
-- [FlowMarbles](<#FlowMarbles> "FlowMarbles")
-- [Kotlin Playground](<#Kotlin Playground> "Kotlin Playground")
-- [tldr inBrowser](<#tldr inBrowser> "tldr inBrowser")
-- [grep](<#grep> "grep")
-- [Material Theme Builder](<#Material Theme Builder> "Material Theme Builder")
-- [D2 Playground](<#D2 Playground> "D2 Playground")
-- [RTSP Stream](<#RTSP Stream> "RTSP Stream")
 
 ## Introduction
 
