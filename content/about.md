@@ -6,7 +6,7 @@ toc: false
 
 Hello, World! It's me, ~~Dio~~ Daniil! So, here’s yet another dev page to showcase my projects, activities, and the journey I’ve had as an Android Developer. It’s not just for recruiters (okay, maybe a little), but also to share what I’ve built and how I work.
 
-## Contact me
+## Reach me
 
 {{< cards >}}
   {{< card link="https://www.linkedin.com/in/daniil-pechorin-885206240/" title="LinkedIn" icon="linkedin" >}}
