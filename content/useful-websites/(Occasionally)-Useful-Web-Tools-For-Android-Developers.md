@@ -1,3 +1,8 @@
+---
+linkTitle: Foo Bar
+title: Organize Files
+---
+
 # (Occasionally) Useful Web Tools For Android Developers
 
 # Table of contents
