@@ -1,4 +1,5 @@
 ---
+breadcrumbs: false
 linkTitle: Foo Bar
 title: Organize Files
 ---
