@@ -3,5 +3,5 @@ title: Articles
 ---
 
 {{< cards cols="1" >}}
-  {{< card link="useful-websites" image="useful-websites.jpg" title = "(Occasionally) Useful Web Tools For Android Developers" >}}
+  {{< card link="useful-websites" title="(Occasionally) Useful Web Tools For Android Developers" image="useful-websites.jpg" >}}
 {{< /cards >}}
