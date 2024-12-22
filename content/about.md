@@ -13,5 +13,5 @@ Hello, World! It's me, ~~Dio~~ Daniil! So, here’s yet another dev page to show
   {{< card link="https://github.com/berhram/" title="GitHub" icon="github" >}}
   {{< card link="mailto:berhram@proton.me" title="E-mail" icon="mail" >}}
   {{< card link="https://dev.to/berhram/" title="DEV" icon="pencil" >}}
-  {{< card link="https://hashnode.com/@berhram/" title="hashnode" icon="pencil" >}}
+  {{< card link="https://berhram.hashnode.dev/" title="hashnode" icon="pencil" >}}
 {{< /cards >}}
