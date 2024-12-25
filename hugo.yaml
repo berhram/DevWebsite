@@ -21,10 +21,8 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 1
-      params:
-        icon: pencil
     - name: Search
-      weight: 3
+      weight: 2
       params:
         type: search
 
