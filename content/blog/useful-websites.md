@@ -1,5 +1,6 @@
 ---
 title: (Occasionally) Useful Web Tools For Android Developers
+summary: Use cases and illustrations
 ---
 
 Date: 2024-12-22
