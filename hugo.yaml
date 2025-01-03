@@ -21,11 +21,8 @@ menu:
     - name: Blog
       pageRef: /blog
       weight: 1
-    - name: Android Interview Database
-      pageRef: /aid
-      weight: 2
     - name: Search
-      weight: 3
+      weight: 2
       params:
         type: search
 
