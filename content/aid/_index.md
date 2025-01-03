@@ -1,6 +1,7 @@
 ---
 title: Android Interview Database
-type: docs
+cascade:
+    type: docs
 ---
 
 Answers to most popular Android Developer interview questions

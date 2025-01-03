@@ -22,7 +22,7 @@ menu:
       pageRef: /blog
       weight: 1
     - name: Android Interview Database
-      pageRef: /docs
+      pageRef: /aid
       weight: 2
     - name: Search
       weight: 3
