@@ -1,5 +1,6 @@
 ---
-title: == and ===
+linkTitle: == and ===
+toc: false
 ---
 # Question
 What is the difference between == and === operators in Kotlin?

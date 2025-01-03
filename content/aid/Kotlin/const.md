@@ -1,3 +1,7 @@
+---
+linkTitle: const
+toc: false
+---
 # Question
 What is the advantage of using const in Kotlin? 
 # Answer
