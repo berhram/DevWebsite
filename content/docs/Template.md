@@ -1,5 +1,5 @@
 ---
-linkTitle: == and ===
+linkTitle: Template
 toc: false
 ---
 # Question
